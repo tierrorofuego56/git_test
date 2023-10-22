@@ -1,0 +1,1 @@
+This is to confirm that VSCode will now be used as my main text editor for Git commits, pushes, pulls and other miscellanious features
